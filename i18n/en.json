@@ -1,0 +1,7 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"redis_sessions_description": "Session handler that uses Redis as the storage back end.",
+	"nocookieslogin": "{{SITENAME}} uses cookies to log in users.  If cookies are disabled in your browser please enable them and try again.\nIf this issue continues to occur with cookies enabled the wiki may be having an issue with the login system."
+}
